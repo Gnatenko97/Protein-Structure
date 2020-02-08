@@ -28,7 +28,6 @@ For example protein 116 in the database has following characteristics
 
 Database says protein has mostly Alph-Helix structures
 
-Data base says its mostly Alpha-Helix
 Here is what I got 
 
 ![GitHub Logo](/download.png)
