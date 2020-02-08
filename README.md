@@ -14,6 +14,7 @@ Background
 
 
 having a large database of Proteins with anotated secondary structure we can do alittle statistics
+
 anotations stend for 
 C-coilical structure
 H-alpha helical structure 
@@ -22,6 +23,7 @@ E-beta sheets
 For example protein 116 in the database has following characteristics
 
 Protein under examination: 1FS9A
+
  -Sequence of first 20 AA:   MTKFKLLLAGSLVAIVSMGLLASNINEREKERVALNKTAH...
  -Anotation of first 20 AA:  CCCCEEEHHHHHHHHHHHHHHHCCCCHHHCCCCHHCCCHH...
  -Database says protein has mostly Alph-Helix structures
