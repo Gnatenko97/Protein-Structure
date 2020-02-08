@@ -25,7 +25,8 @@ For example protein 116 in the database has following characteristics
  - Protein under examination: 1FS9A
  - Sequence of first 20 AA:   MTKFKLLLAGSLVAIVSMGLLASNINEREKERVALNKTAH...
  - Anotation of first 20 AA:  CCCCEEEHHHHHHHHHHHHHHHCCCCHHHCCCCHHCCCHH...
- - Database says protein has mostly Alph-Helix structures
+
+Database says protein has mostly Alph-Helix structures
 
 Data base says its mostly Alpha-Helix
 Here is what I got 
